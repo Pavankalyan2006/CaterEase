@@ -1,0 +1,46 @@
+Warning: validateDOMNesting(...): <a> cannot appear as a descendant of &lt;a&gt;.
+    at a
+    at a
+    at https://4a1817e2-d2d3-41cb-8a78-56e54a6a3b96-00-ia0jh3mj5cl8.riker.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=a89bf1f6:337:18
+    at div
+    at nav
+    at header
+    at Navbar (https://4a1817e2-d2d3-41cb-8a78-56e54a6a3b96-00-ia0jh3mj5cl8.riker.replit.dev/src/components/Navbar.tsx:34:39)
+    at div
+    at Router
+    at Provider (https://4a1817e2-d2d3-41cb-8a78-56e54a6a3b96-00-ia0jh3mj5cl8.riker.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-VJRUVGTI.js?v=a89bf1f6:38:15)
+    at TooltipProvider (https://4a1817e2-d2d3-41cb-8a78-56e54a6a3b96-00-ia0jh3mj5cl8.riker.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=a89bf1f6:61:5)
+    at AuthProvider (https://4a1817e2-d2d3-41cb-8a78-56e54a6a3b96-00-ia0jh3mj5cl8.riker.replit.dev/src/contexts/AuthContext.tsx:21:32)
+    at QueryClientProvider (https://4a1817e2-d2d3-41cb-8a78-56e54a6a3b96-00-ia0jh3mj5cl8.riker.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js?v=a89bf1f6:2805:3)
+    at App
+    at ThemeProvider (https://4a1817e2-d2d3-41cb-8a78-56e54a6a3b96-00-ia0jh3mj5cl8.riker.replit.dev/src/components/ui/theme-provider.tsx?v=SCWR-XRJtFCwkCavac8wB:25:3)
+at a
+at a
+at https://4a1817e2-d2d3-41cb-8a78-56e54a6a3b96-00-ia0jh3mj5cl8.riker.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=a89bf1f6:337:18
+at div
+at nav
+at header
+at Navbar (https://4a1817e2-d2d3-41cb-8a78-56e54a6a3b96-00-ia0jh3mj5cl8.riker.replit.dev/src/components/Navbar.tsx:34:39)
+at div
+at Router
+at Provider (https://4a1817e2-d2d3-41cb-8a78-56e54a6a3b96-00-ia0jh3mj5cl8.riker.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-VJRUVGTI.js?v=a89bf1f6:38:15)
+at TooltipProvider (https://4a1817e2-d2d3-41cb-8a78-56e54a6a3b96-00-ia0jh3mj5cl8.riker.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=a89bf1f6:61:5)
+at AuthProvider (https://4a1817e2-d2d3-41cb-8a78-56e54a6a3b96-00-ia0jh3mj5cl8.riker.replit.dev/src/contexts/AuthContext.tsx:21:32)
+at QueryClientProvider (https://4a1817e2-d2d3-41cb-8a78-56e54a6a3b96-00-ia0jh3mj5cl8.riker.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js?v=a89bf1f6:2805:3)
+at App
+at ThemeProvider (https://4a1817e2-d2d3-41cb-8a78-56e54a6a3b96-00-ia0jh3mj5cl8.riker.replit.dev/src/components/ui/theme-provider.tsx?v=SCWR-XRJtFCwkCavac8wB:25:3)
+at t.value (https://4a1817e2-d2d3-41cb-8a78-56e54a6a3b96-00-ia0jh3mj5cl8.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:17465)
+at new t (https://4a1817e2-d2d3-41cb-8a78-56e54a6a3b96-00-ia0jh3mj5cl8.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:12630)
+at t.value (https://4a1817e2-d2d3-41cb-8a78-56e54a6a3b96-00-ia0jh3mj5cl8.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:32766)
+at https://4a1817e2-d2d3-41cb-8a78-56e54a6a3b96-00-ia0jh3mj5cl8.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:34400
+Checking auth status...
+Auth data received: 
+Object {user: {…}, caterer: null}
+Caterer register error: 
+Error {}
+
+Caterer register error: 
+Error {}
+
+Caterer register error: 
+Error {}
